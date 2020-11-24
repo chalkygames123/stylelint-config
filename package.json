@@ -16,9 +16,6 @@
     "url": "https://github.com/chalkygames123/stylelint-config/issues"
   },
   "main": "css/index.js",
-  "engines": {
-    "node": ">=14"
-  },
   "scripts": {
     "fix": "run-s \"lint:scripts --fix\"",
     "format": "run-s \"format-check --write\"",
