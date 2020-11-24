@@ -1,0 +1,52 @@
+module.exports = {
+  extends: ['stylelint-config-recommended-scss', '../css'],
+  rules: {
+    'scss/at-each-key-value-single-line': true,
+    'scss/at-function-named-arguments': [
+      'never',
+      {
+        ignoreFunctions: ['color.adjust', 'color.change', 'color.scale'],
+      },
+    ],
+    'scss/at-function-parentheses-space-before': 'never',
+    'scss/at-if-no-null': true,
+    'scss/at-import-no-partial-leading-underscore': true,
+    'scss/at-import-partial-extension': 'never',
+    'scss/at-mixin-argumentless-call-parentheses': 'always',
+    'scss/at-mixin-parentheses-space-before': 'never',
+    'scss/at-rule-conditional-no-parentheses': true,
+    'scss/at-rule-no-unknown': true,
+    'scss/comment-no-loud': true,
+    'scss/declaration-nested-properties': 'never',
+    'scss/dimension-no-non-numeric-values': true,
+    'scss/dollar-variable-colon-space-after': 'at-least-one-space',
+    'scss/dollar-variable-colon-space-before': 'never',
+    'scss/dollar-variable-empty-line-before': [
+      'always',
+      {
+        except: ['after-dollar-variable', 'first-nested'],
+        ignore: ['after-comment'],
+      },
+    ],
+    'scss/dollar-variable-no-missing-interpolation': true,
+    'scss/double-slash-comment-whitespace-inside': 'always',
+    'scss/function-color-relative': true,
+    'scss/function-quote-no-quoted-strings-inside': true,
+    'scss/function-unquote-no-unquoted-strings-inside': true,
+    'scss/map-keys-quotes': 'always',
+    'scss/no-duplicate-dollar-variables': [
+      true,
+      {
+        ignoreInsideAtRules: ['if', 'mixin'],
+      },
+    ],
+    'scss/no-duplicate-mixins': true,
+    'scss/no-global-function-names': true,
+    'scss/operator-no-newline-after': true,
+    'scss/operator-no-newline-before': true,
+    'scss/operator-no-unspaced': true,
+    'scss/partial-no-import': true,
+    'scss/selector-no-redundant-nesting-selector': true,
+    'scss/selector-no-union-class-name': true,
+  },
+}
