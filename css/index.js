@@ -14,13 +14,6 @@ module.exports = {
     'at-rule-no-vendor-prefix': true,
     'color-named': 'never',
     'declaration-block-no-redundant-longhand-properties': true,
-    'declaration-empty-line-before': [
-      'always',
-      {
-        except: ['after-declaration', 'first-nested'],
-        ignore: ['after-comment'],
-      },
-    ],
     'declaration-no-important': true,
     'font-family-name-quotes': 'always-where-recommended',
     'font-weight-notation': [
