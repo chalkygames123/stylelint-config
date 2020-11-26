@@ -14,6 +14,8 @@ $ npm install @chalkygames123/stylelint-config --save-dev
 
 ## Usage
 
+This package provides configs for both CSS and SCSS. You can choose which one you would like to extend.
+
 CSS:
 
 ```javascript
