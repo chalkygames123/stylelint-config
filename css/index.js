@@ -1,16 +1,12 @@
 module.exports = {
-  extends: ['stylelint-config-standard', 'stylelint-config-recess-order'],
+  extends: [
+    '../prettier',
+    'stylelint-config-standard',
+    'stylelint-config-recess-order',
+  ],
   plugins: ['stylelint-order'],
   rules: {
     'alpha-value-notation': 'number',
-    'at-rule-empty-line-before': [
-      'always',
-      {
-        except: ['blockless-after-same-name-blockless', 'first-nested'],
-        ignore: ['after-comment'],
-        ignoreAtRules: ['else'],
-      },
-    ],
     'at-rule-no-vendor-prefix': true,
     'color-named': 'never',
     'declaration-block-no-redundant-longhand-properties': true,
@@ -64,13 +60,6 @@ module.exports = {
       ],
     ],
     'property-no-vendor-prefix': true,
-    'rule-empty-line-before': [
-      'always',
-      {
-        except: ['first-nested'],
-        ignore: ['after-comment'],
-      },
-    ],
     'selector-max-attribute': 2,
     'selector-max-class': 4,
     'selector-max-combinators': 4,

@@ -33,3 +33,35 @@ module.exports = {
   extends: ['@chalkygames123/stylelint-config/scss'],
 }
 ```
+
+### Prettier
+
+The above configs include rules that are turned off by the [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier). To turn them back on, you should also extend `@chalkygames123/stylelint-config/prettier` after the `stylelint-config-prettier`.
+
+CSS:
+
+```javascript
+// .stylelintrc.js
+
+module.exports = {
+  extends: [
+    '@chalkygames123/stylelint-config/css',
+    'stylelint-config-prettier',
+    '@chalkygames123/stylelint-config/prettier',
+  ],
+}
+```
+
+SCSS:
+
+```javascript
+// .stylelintrc.js
+
+module.exports = {
+  extends: [
+    '@chalkygames123/stylelint-config/scss',
+    'stylelint-config-prettier',
+    '@chalkygames123/stylelint-config/prettier',
+  ],
+}
+```
