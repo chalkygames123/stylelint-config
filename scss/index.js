@@ -15,7 +15,6 @@ module.exports = {
     'scss/at-mixin-argumentless-call-parentheses': 'always',
     'scss/at-mixin-parentheses-space-before': 'never',
     'scss/at-rule-conditional-no-parentheses': true,
-    'scss/at-rule-no-unknown': true,
     'scss/comment-no-loud': true,
     'scss/declaration-nested-properties': 'never',
     'scss/dimension-no-non-numeric-values': true,
