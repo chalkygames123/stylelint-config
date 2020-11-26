@@ -1,6 +1,7 @@
 module.exports = {
   extends: ['../css', 'stylelint-config-recommended-scss'],
   rules: {
+    'no-empty-source': null,
     'scss/at-each-key-value-single-line': true,
     'scss/at-function-named-arguments': [
       'never',
