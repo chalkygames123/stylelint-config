@@ -1,3 +1,10 @@
+### [2.0.1](https://github.com/chalkygames123/stylelint-config/compare/v2.0.0...v2.0.1) (2020-11-26)
+
+
+### Bug Fixes
+
+* **scss:** disable the at-rule-no-unknown rule that was unintentionally enabled ([5223898](https://github.com/chalkygames123/stylelint-config/commit/5223898a38a2891819f462549bcb4a99728ee700))
+
 ## [2.0.0](https://github.com/chalkygames123/stylelint-config/compare/v1.0.1...v2.0.0) (2020-11-26)
 
 
