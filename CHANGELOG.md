@@ -1,3 +1,15 @@
+## [2.0.0](https://github.com/chalkygames123/stylelint-config/compare/v1.0.1...v2.0.0) (2020-11-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* The stylelint-config-prettier is no longer extended to make it optional and allow
+users to extend additional configs.
+
+### Bug Fixes
+
+* stop extending the stylelint-config-prettier ([395fb05](https://github.com/chalkygames123/stylelint-config/commit/395fb05ca7ac75a92f44fb74a5192967e9becf6a))
+
 ### [1.0.1](https://github.com/chalkygames123/stylelint-config/compare/v1.0.0...v1.0.1) (2020-11-24)
 
 
