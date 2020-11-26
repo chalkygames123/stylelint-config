@@ -1,3 +1,10 @@
+### [2.1.1](https://github.com/chalkygames123/stylelint-config/compare/v2.1.0...v2.1.1) (2020-11-26)
+
+
+### Bug Fixes
+
+* **scss:** disable the no-empty-source rule that was unintentionally enabled ([d3c7559](https://github.com/chalkygames123/stylelint-config/commit/d3c755984f4dc43fd9b54a43e3c7f113f9994d12))
+
 ## [2.1.0](https://github.com/chalkygames123/stylelint-config/compare/v2.0.1...v2.1.0) (2020-11-26)
 
 
