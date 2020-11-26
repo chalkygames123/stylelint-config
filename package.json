@@ -17,7 +17,7 @@
   },
   "main": "css/index.js",
   "scripts": {
-    "fix": "run-s \"lint:scripts --fix\"",
+    "fix": "run-s \"lint --fix\"",
     "format": "run-s \"format-check --write\"",
     "format-check": "prettier . --check",
     "lint": "eslint .",
