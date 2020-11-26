@@ -29,6 +29,12 @@
     "css/index.js",
     "scss/index.js"
   ],
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "css",
+    "scss"
+  ],
   "peerDependencies": {
     "stylelint": ">=13.5.0"
   },
