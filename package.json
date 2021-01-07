@@ -23,7 +23,8 @@
     "lint": "eslint .",
     "postinstall": "husky install",
     "postpublish": "pinst --enable",
-    "prepublishOnly": "pinst --disable"
+    "prepublishOnly": "pinst --disable",
+    "test": "run-p lint format-check"
   },
   "files": [
     "css/index.js",
