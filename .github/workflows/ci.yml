@@ -17,11 +17,7 @@ jobs:
         with:
           node-version: '14.x'
 
-      - run: npm ci
-
-      - run: npm run lint
-
-      - run: npm run format-check
+      - run: npm install-ci-test
 
       - run: npx semantic-release
         env:
