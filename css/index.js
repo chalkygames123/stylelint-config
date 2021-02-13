@@ -5,6 +5,8 @@ module.exports = {
     'stylelint-config-recess-order',
   ],
   plugins: ['stylelint-order'],
+  reportInvalidScopeDisables: true,
+  reportNeedlessDisables: true,
   rules: {
     'alpha-value-notation': 'number',
     'at-rule-no-vendor-prefix': true,
