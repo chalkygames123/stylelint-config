@@ -1,7 +1,3 @@
 {
-  "extends": ["config:base", ":disablePeerDependencies", "group:allNonMajor"],
-  "lockFileMaintenance": {
-    "enabled": true
-  },
-  "rangeStrategy": "bump"
+  "extends": ["config:base", "group:allNonMajor"]
 }
