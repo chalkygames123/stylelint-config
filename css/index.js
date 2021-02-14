@@ -4,7 +4,6 @@ module.exports = {
     'stylelint-config-standard',
     'stylelint-config-recess-order',
   ],
-  plugins: ['stylelint-order'],
   reportInvalidScopeDisables: true,
   reportNeedlessDisables: true,
   rules: {
