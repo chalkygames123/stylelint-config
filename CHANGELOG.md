@@ -1,3 +1,16 @@
+## [2.2.0](https://github.com/chalkygames123/stylelint-config/compare/v2.1.1...v2.2.0) (2021-02-14)
+
+
+### Features
+
+* enable declaration-block-no-duplicate-custom-properties rule ([e1c4a40](https://github.com/chalkygames123/stylelint-config/commit/e1c4a4002a4068ac9fa17b5d36e986aac6946aab))
+* enable reportInvalidScopeDisables and reportNeedlessDisables options ([da250ff](https://github.com/chalkygames123/stylelint-config/commit/da250ff83b0762854a346ba577575acced2a1be1))
+
+
+### Bug Fixes
+
+* remove unnecessary dependency stylelint-order ([9219012](https://github.com/chalkygames123/stylelint-config/commit/9219012d599fc77d0f7db3de0b257ec3bf6c9800))
+
 ### [2.1.1](https://github.com/chalkygames123/stylelint-config/compare/v2.1.0...v2.1.1) (2020-11-26)
 
 
