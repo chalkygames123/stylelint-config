@@ -1,3 +1,16 @@
+## [3.0.0](https://github.com/chalkygames123/stylelint-config/compare/v2.2.0...v3.0.0) (2021-03-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** update peer dependency stylelint to >=13.12.0
+
+### Bug Fixes
+
+* **deps:** update peer dependency stylelint to >=13.12.0 ([bf2b2cd](https://github.com/chalkygames123/stylelint-config/commit/bf2b2cd9201b4ac757f706cdca7070d991a5ff64))
+* remove `declaration-block-no-duplicate-custom-properties` rule ([0ffe455](https://github.com/chalkygames123/stylelint-config/commit/0ffe455b364317be7e388eef4caf2585382b6185))
+* **deps:** update dependency stylelint-config-standard to v21 ([89f4a29](https://github.com/chalkygames123/stylelint-config/commit/89f4a29b286f770a3c91b761c5515d4487f629a8))
+
 ## [2.2.0](https://github.com/chalkygames123/stylelint-config/compare/v2.1.1...v2.2.0) (2021-02-14)
 
 
