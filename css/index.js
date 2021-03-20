@@ -10,7 +10,6 @@ module.exports = {
     'alpha-value-notation': 'number',
     'at-rule-no-vendor-prefix': true,
     'color-named': 'never',
-    'declaration-block-no-duplicate-custom-properties': true,
     'declaration-block-no-redundant-longhand-properties': true,
     'declaration-no-important': true,
     'font-family-name-quotes': 'always-where-recommended',
