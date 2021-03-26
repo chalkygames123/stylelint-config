@@ -1,3 +1,10 @@
+### [3.0.1](https://github.com/chalkygames123/stylelint-config/compare/v3.0.0...v3.0.1) (2021-03-26)
+
+
+### Reverts
+
+* chore: tweak .husky/.gitignore ([06c6a22](https://github.com/chalkygames123/stylelint-config/commit/06c6a22cbb5605db167d141580a72adb13f62439))
+
 ## [3.0.0](https://github.com/chalkygames123/stylelint-config/compare/v2.2.0...v3.0.0) (2021-03-20)
 
 
