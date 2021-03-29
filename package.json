@@ -22,7 +22,7 @@
     "format-check": "prettier . --check",
     "lint": "eslint .",
     "prepare": "husky install",
-    "test": "run-p lint format-check"
+    "test": "run-p format-check lint"
   },
   "files": [
     "css/index.js",
