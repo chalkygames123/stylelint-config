@@ -17,8 +17,8 @@
   },
   "main": "css/index.js",
   "scripts": {
-    "fix": "run-s \"lint --fix\"",
-    "format": "run-s \"format-check --write\"",
+    "fix": "run-s \"lint -- --fix\"",
+    "format": "run-s \"format-check -- --write\"",
     "format-check": "prettier . --check",
     "lint": "eslint .",
     "prepare": "husky install",
