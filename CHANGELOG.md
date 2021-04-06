@@ -1,3 +1,10 @@
+### [3.0.2](https://github.com/chalkygames123/stylelint-config/compare/v3.0.1...v3.0.2) (2021-04-06)
+
+
+### Bug Fixes
+
+* disable `no-descending-specificity` rule due to its limitation ([01dd69f](https://github.com/chalkygames123/stylelint-config/commit/01dd69f3ed784aa89a1586c282a4229fa365a09a))
+
 ### [3.0.1](https://github.com/chalkygames123/stylelint-config/compare/v3.0.0...v3.0.1) (2021-03-26)
 
 
