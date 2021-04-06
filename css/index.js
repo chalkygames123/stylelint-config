@@ -23,6 +23,7 @@ module.exports = {
     'function-url-quotes': 'always',
     'hue-degree-notation': 'angle',
     'media-feature-name-no-vendor-prefix': true,
+    'no-descending-specificity': null,
     'no-empty-source': null,
     'order/order': [
       [
