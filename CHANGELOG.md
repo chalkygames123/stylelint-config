@@ -1,3 +1,15 @@
+## [4.0.0](https://github.com/chalkygames123/stylelint-config/compare/v3.0.2...v4.0.0) (2021-04-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** update peer dependency stylelint to >=13.13.0
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-config-standard to v22 ([104ab0f](https://github.com/chalkygames123/stylelint-config/commit/104ab0f887b00034c050cac42ca9f9cb0211ef91))
+* **deps:** update peer dependency stylelint to >=13.13.0 ([8042eed](https://github.com/chalkygames123/stylelint-config/commit/8042eed29112821397d4c6ad62d8ac889f8a2e51))
+
 ### [3.0.2](https://github.com/chalkygames123/stylelint-config/compare/v3.0.1...v3.0.2) (2021-04-06)
 
 
