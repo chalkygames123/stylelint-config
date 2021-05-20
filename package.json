@@ -45,7 +45,7 @@
     "stylelint-scss": "^3.19.0"
   },
   "devDependencies": {
-    "@chalkygames123/eslint-config": "^2.0.0",
+    "@chalkygames123/eslint-config": "2.0.0",
     "@commitlint/cli": "12.1.1",
     "@commitlint/config-conventional": "12.1.1",
     "@semantic-release/changelog": "5.0.1",
