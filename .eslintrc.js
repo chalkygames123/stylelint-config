@@ -1,4 +1,4 @@
 module.exports = {
   root: true,
-  extends: ['airbnb-base', 'prettier'],
+  extends: ['@chalkygames123', 'prettier'],
 }
