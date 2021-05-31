@@ -1,3 +1,10 @@
+### [4.0.1](https://github.com/chalkygames123/stylelint-config/compare/v4.0.0...v4.0.1) (2021-05-31)
+
+
+### Bug Fixes
+
+* **scss:** disable `no-descending-specificity` rule that was unintentionally enabled ([b16df36](https://github.com/chalkygames123/stylelint-config/commit/b16df367491f733d99856d2e3aed65de4092dcd7))
+
 ## [4.0.0](https://github.com/chalkygames123/stylelint-config/compare/v3.0.2...v4.0.0) (2021-04-26)
 
 
