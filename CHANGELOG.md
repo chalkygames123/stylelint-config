@@ -1,3 +1,14 @@
+## [5.0.0](https://github.com/chalkygames123/stylelint-config/compare/v4.0.1...v5.0.0) (2021-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Properties for which the order is unspecified are now expected to be after any other properties in alphabetical order.
+
+### Features
+
+* change `unspecified` option of `order/properties-order` rule to `bottomAlphabetical` ([b9a27ab](https://github.com/chalkygames123/stylelint-config/commit/b9a27abcba2eaafbed129ae46915781f9fb075b9))
+
 ### [4.0.1](https://github.com/chalkygames123/stylelint-config/compare/v4.0.0...v4.0.1) (2021-05-31)
 
 
