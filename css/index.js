@@ -1,3 +1,5 @@
+const stylelintConfigRecessOrder = require('stylelint-config-recess-order')
+
 module.exports = {
   extends: [
     '../prettier',
@@ -60,6 +62,12 @@ module.exports = {
           selector: /^&/,
         },
       ],
+    ],
+    'order/properties-order': [
+      stylelintConfigRecessOrder.rules['order/properties-order'],
+      {
+        unspecified: 'bottomAlphabetical',
+      },
     ],
     'property-no-vendor-prefix': true,
     'selector-max-attribute': 2,
