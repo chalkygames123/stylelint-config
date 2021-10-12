@@ -1,3 +1,10 @@
+### [5.0.1](https://github.com/chalkygames123/stylelint-config/compare/v5.0.0...v5.0.1) (2021-10-12)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([3850b8e](https://github.com/chalkygames123/stylelint-config/commit/3850b8ed3a64ee9b459d87c42dbf2e5bfc7f5e17))
+
 ## [5.0.0](https://github.com/chalkygames123/stylelint-config/compare/v4.0.1...v5.0.0) (2021-07-11)
 
 
