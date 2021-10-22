@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "Default stylelint config used by @chalkygames123",
+  "description": "Default Stylelint config used by @chalkygames123",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -6,7 +6,7 @@
 [![Renovate: enabled](https://img.shields.io/badge/Renovate-enabled-brightgreen?logo=RenovateBot&logoColor=fff)](https://renovatebot.com/)
 [![CI](https://github.com/chalkygames123/stylelint-config/actions/workflows/ci.yaml/badge.svg)](https://github.com/chalkygames123/stylelint-config/actions/workflows/ci.yaml)
 
-Default stylelint config used by @chalkygames123
+Default Stylelint config used by @chalkygames123
 
 ## Install
 
@@ -40,7 +40,7 @@ module.exports = {
 
 ### Prettier
 
-When using stylelint with Prettier, you should extend [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier) after any other shareable configs to turn off all rules that are unnecessary or might conflict with Prettier. While the above configs include rules that will be turned off by doing that, you can also extend `@chalkygames123/stylelint-config/prettier` if you want to turn them back on.
+When using Stylelint with Prettier, you should extend [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier) after any other shareable configs to turn off all rules that are unnecessary or might conflict with Prettier. While the above configs include rules that will be turned off by doing that, you can also extend `@chalkygames123/stylelint-config/prettier` if you want to turn them back on.
 
 CSS:
 
