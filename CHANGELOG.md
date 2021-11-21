@@ -1,3 +1,33 @@
+## [7.0.0](https://github.com/chalkygames123/stylelint-config/compare/v6.0.1...v7.0.0) (2021-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** All major production dependencies have been updated.
+
+Updated dependencies:
+
+- `stylelint-config-recess-order` to v3
+- `stylelint-config-standard` to v24
+- `stylelint-scss` to v4
+
+The peer dependency `stylelint` has also been updated to `>=14.0.0` accordingly.
+
+Added rules:
+
+- `color-function-notation` (from `stylelint-config-standard`)
+- `custom-media-pattern` (from `stylelint-config-standard`)
+- `custom-property-no-missing-var-function` (from `stylelint-config-recommended`)
+- `custom-property-pattern` (from `stylelint-config-standard`)
+- `keyframes-name-pattern` (from `stylelint-config-standard`)
+- `no-irregular-whitespace` (from `stylelint-config-standard`)
+- `selector-attribute-quotes` (from `stylelint-config-standard`)
+- `selector-id-pattern` (from `stylelint-config-standard`)
+
+### Bug Fixes
+
+* **deps:** update all major dependencies ([4d5727f](https://github.com/chalkygames123/stylelint-config/commit/4d5727fd2be0c6c6ac5a60473e85198bbba288ba))
+
 ### [6.0.1](https://github.com/chalkygames123/stylelint-config/compare/v6.0.0...v6.0.1) (2021-11-21)
 
 
