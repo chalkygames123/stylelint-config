@@ -1,11 +1,7 @@
 const stylelintConfigRecessOrder = require('stylelint-config-recess-order')
 
 module.exports = {
-  extends: [
-    '../prettier',
-    'stylelint-config-standard',
-    'stylelint-config-recess-order',
-  ],
+  extends: ['stylelint-config-standard', 'stylelint-config-recess-order'],
   reportInvalidScopeDisables: true,
   reportNeedlessDisables: true,
   rules: {
