@@ -1,3 +1,10 @@
+### [6.0.1](https://github.com/chalkygames123/stylelint-config/compare/v6.0.0...v6.0.1) (2021-11-21)
+
+
+### Bug Fixes
+
+* stop extending `@chalkygames123/stylelint-config/prettier` ([5d2febb](https://github.com/chalkygames123/stylelint-config/commit/5d2febbf5c44f2f0960f6a8c69011cff226b7c8a))
+
 ## [6.0.0](https://github.com/chalkygames123/stylelint-config/compare/v5.0.1...v6.0.0) (2021-11-21)
 
 
