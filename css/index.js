@@ -6,11 +6,8 @@ module.exports = {
   reportNeedlessDisables: true,
   rules: {
     'alpha-value-notation': 'number',
-    'at-rule-no-vendor-prefix': true,
     'color-named': 'never',
-    'declaration-block-no-redundant-longhand-properties': true,
     'declaration-no-important': true,
-    'font-family-name-quotes': 'always-where-recommended',
     'font-weight-notation': [
       'numeric',
       {
@@ -18,11 +15,11 @@ module.exports = {
       },
     ],
     'function-url-no-scheme-relative': true,
-    'function-url-quotes': 'always',
-    'hue-degree-notation': 'angle',
-    'media-feature-name-no-vendor-prefix': true,
+    'max-line-length': null,
     'no-descending-specificity': null,
+    'no-empty-first-line': null,
     'no-empty-source': null,
+    'number-max-precision': null,
     'order/order': [
       [
         {
@@ -65,7 +62,6 @@ module.exports = {
         unspecified: 'bottomAlphabetical',
       },
     ],
-    'property-no-vendor-prefix': true,
     'rule-empty-line-before': [
       'always',
       {
@@ -73,6 +69,7 @@ module.exports = {
         ignore: ['after-comment'],
       },
     ],
+    'selector-class-pattern': null,
     'selector-max-attribute': 2,
     'selector-max-class': 4,
     'selector-max-combinators': 4,
@@ -81,8 +78,6 @@ module.exports = {
     'selector-max-type': 2,
     'selector-max-universal': 1,
     'selector-no-qualifying-type': true,
-    'selector-no-vendor-prefix': true,
-    'shorthand-property-no-redundant-values': true,
-    'value-no-vendor-prefix': true,
+    'string-quotes': null,
   },
 }
