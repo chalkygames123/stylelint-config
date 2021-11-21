@@ -1,3 +1,33 @@
+## [8.0.0](https://github.com/chalkygames123/stylelint-config/compare/v7.0.1...v8.0.0) (2021-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **scss:** The `stylelint-config-standard-scss` shareable configs has been added.
+
+The dependencies `postcss-scss` and `stylelint-scss` has been removed accordingly.
+
+Added rules:
+
+- `scss/at-else-closing-brace-newline-after` (from `stylelint-config-standard-scss`)
+- `scss/at-else-closing-brace-space-after` (from `stylelint-config-standard-scss`)
+- `scss/at-else-empty-line-before` (from `stylelint-config-standard-scss`)
+- `scss/at-else-if-parentheses-space-before` (from `stylelint-config-standard-scss`)
+- `scss/at-extend-no-missing-placeholder` (from `stylelint-config-recommended-scss`)
+- `scss/at-function-pattern` (from `stylelint-config-standard-scss`)
+- `scss/at-if-closing-brace-newline-after` (from `stylelint-config-standard-scss`)
+- `scss/at-if-closing-brace-space-after` (from `stylelint-config-standard-scss`)
+- `scss/at-mixin-pattern` (from `stylelint-config-standard-scss`)
+- `scss/comment-no-empty` (from `stylelint-config-recommended-scss`)
+- `scss/declaration-nested-properties-no-divided-groups` (from `stylelint-config-recommended-scss`)
+- `scss/dollar-variable-pattern` (from `stylelint-config-standard-scss`)
+- `scss/double-slash-comment-empty-line-before` (from `stylelint-config-standard-scss`)
+- `scss/percent-placeholder-pattern` (from `stylelint-config-standard-scss`)
+
+### Features
+
+* **scss:** add `stylelint-config-standard-scss` shareable config ([6b76658](https://github.com/chalkygames123/stylelint-config/commit/6b766586fb3928ad6d02d8061efa74f0d3590434))
+
 ### [7.0.1](https://github.com/chalkygames123/stylelint-config/compare/v7.0.0...v7.0.1) (2021-11-21)
 
 
