@@ -1,3 +1,14 @@
+## [6.0.0](https://github.com/chalkygames123/stylelint-config/compare/v5.0.1...v6.0.0) (2021-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* The `@chalkygames123/stylelint-config/prettier` shared config has been removed. It was intended to include only rules that are disabled by `stylelint-config-prettier` but have a different format from Prettier. However, since the `at-rule-empty-line-before` rule has the same format as Prettier, and the `rule-empty-line-before` rule is not disabled as of `stylelint-config-prettier` v9.0.0, the config is no longer required.
+
+### Bug Fixes
+
+* remove `@chalkygames123/stylelint-config/prettier` shareable config ([43e2038](https://github.com/chalkygames123/stylelint-config/commit/43e2038b272bca947dfd64f0ea274656dc127ba5))
+
 ### [5.0.1](https://github.com/chalkygames123/stylelint-config/compare/v5.0.0...v5.0.1) (2021-10-12)
 
 
