@@ -1,3 +1,10 @@
+## [8.1.0](https://github.com/chalkygames123/stylelint-config/compare/v8.0.0...v8.1.0) (2021-11-21)
+
+
+### Features
+
+* **scss:** change option for `scss/dollar-variable-colon-space-after` rule ([3154663](https://github.com/chalkygames123/stylelint-config/commit/315466357416edb0fa6fe9380edf8ee33ef88e04))
+
 ## [8.0.0](https://github.com/chalkygames123/stylelint-config/compare/v7.0.1...v8.0.0) (2021-11-21)
 
 
