@@ -11,13 +11,6 @@ module.exports = {
     'scss/comment-no-loud': true,
     'scss/declaration-nested-properties': 'never',
     'scss/dimension-no-non-numeric-values': true,
-    'scss/dollar-variable-empty-line-before': [
-      'always',
-      {
-        except: ['after-dollar-variable', 'first-nested'],
-        ignore: ['after-comment'],
-      },
-    ],
     'scss/function-color-relative': true,
     'scss/map-keys-quotes': 'always',
     'scss/no-duplicate-dollar-variables': [
