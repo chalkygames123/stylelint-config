@@ -70,6 +70,13 @@ module.exports = {
       },
     ],
     'property-no-vendor-prefix': true,
+    'rule-empty-line-before': [
+      'always',
+      {
+        except: ['first-nested'],
+        ignore: ['after-comment'],
+      },
+    ],
     'selector-max-attribute': 2,
     'selector-max-class': 4,
     'selector-max-combinators': 4,
