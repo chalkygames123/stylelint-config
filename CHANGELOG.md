@@ -1,3 +1,10 @@
+### [7.0.1](https://github.com/chalkygames123/stylelint-config/compare/v7.0.0...v7.0.1) (2021-11-21)
+
+
+### Bug Fixes
+
+* **scss:** add `customSyntax` option for SCSS config ([e95d3e8](https://github.com/chalkygames123/stylelint-config/commit/e95d3e89044a707382fb54902a8401d6c1922917))
+
 ## [7.0.0](https://github.com/chalkygames123/stylelint-config/compare/v6.0.1...v7.0.0) (2021-11-21)
 
 
