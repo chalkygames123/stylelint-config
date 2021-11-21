@@ -1,3 +1,10 @@
+### [8.1.1](https://github.com/chalkygames123/stylelint-config/compare/v8.1.0...v8.1.1) (2021-11-21)
+
+
+### Bug Fixes
+
+* **scss:** change option for `scss/dollar-variable-empty-line-before` rule ([b5a6812](https://github.com/chalkygames123/stylelint-config/commit/b5a6812e3badd7bda567d2c36261ece41b0f1d4f))
+
 ## [8.1.0](https://github.com/chalkygames123/stylelint-config/compare/v8.0.0...v8.1.0) (2021-11-21)
 
 
