@@ -7,6 +7,7 @@
 
 ### [8.1.1](https://github.com/chalkygames123/stylelint-config/compare/v8.1.0...v8.1.1) (2021-11-21)
 
+⚠ This release has been unpublished due to an accident during the release process. Therefore, the installation will fail with an `ETARGET` error.
 
 ### Bug Fixes
 
