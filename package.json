@@ -28,6 +28,7 @@
     "prepare": "husky install"
   },
   "files": [
+    "base/index.js",
     "css/index.js",
     "scss/index.js"
   ],
