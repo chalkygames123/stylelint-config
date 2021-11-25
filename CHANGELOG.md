@@ -1,3 +1,10 @@
+### [8.1.3](https://github.com/chalkygames123/stylelint-config/compare/v8.1.2...v8.1.3) (2021-11-25)
+
+
+### Bug Fixes
+
+* add missing entry `'base/index.js'` to `package.json#files` field ([b97ab34](https://github.com/chalkygames123/stylelint-config/commit/b97ab347511d6f7b7a52c17c26f1b142cb81555d))
+
 ### [8.1.2](https://github.com/chalkygames123/stylelint-config/compare/v8.1.1...v8.1.2) (2021-11-21)
 
 
