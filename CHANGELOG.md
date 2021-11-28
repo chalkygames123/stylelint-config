@@ -1,3 +1,11 @@
+### [8.1.5](https://github.com/chalkygames123/stylelint-config/compare/v8.1.4...v8.1.5) (2021-11-28)
+
+
+### Bug Fixes
+
+* change option for `at-mixin-argumentless-call-parentheses` rule ([74541d7](https://github.com/chalkygames123/stylelint-config/commit/74541d7961c387ad3646240d12b3e162e6d9c297))
+* disable `scss/comment-no-empty` rule ([370fbc2](https://github.com/chalkygames123/stylelint-config/commit/370fbc21daf5bf2d262fdc9e3af6bd023c0a8333))
+
 ### [8.1.4](https://github.com/chalkygames123/stylelint-config/compare/v8.1.3...v8.1.4) (2021-11-28)
 
 
