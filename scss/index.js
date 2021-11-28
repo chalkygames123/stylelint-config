@@ -9,6 +9,7 @@ module.exports = {
       },
     ],
     'scss/at-mixin-argumentless-call-parentheses': 'always',
+    'scss/comment-no-empty': true,
     'scss/comment-no-loud': true,
     'scss/declaration-nested-properties': 'never',
     'scss/dimension-no-non-numeric-values': true,
