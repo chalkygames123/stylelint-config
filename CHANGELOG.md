@@ -1,3 +1,10 @@
+### [8.1.4](https://github.com/chalkygames123/stylelint-config/compare/v8.1.3...v8.1.4) (2021-11-28)
+
+
+### Bug Fixes
+
+* **deps:** add missing dependency `stylelint-config-standard-scss` ([2886fa6](https://github.com/chalkygames123/stylelint-config/commit/2886fa60be4c225e483d2633ccaa0842ffdf917a))
+
 ### [8.1.3](https://github.com/chalkygames123/stylelint-config/compare/v8.1.2...v8.1.3) (2021-11-25)
 
 
