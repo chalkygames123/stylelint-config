@@ -1,3 +1,10 @@
+### [8.1.6](https://github.com/chalkygames123/stylelint-config/compare/v8.1.5...v8.1.6) (2021-11-28)
+
+
+### Bug Fixes
+
+* disable `scss/comment-no-empty` rule (again) ([fc0dded](https://github.com/chalkygames123/stylelint-config/commit/fc0dded6feb5e7a27410490268da564e475a4122))
+
 ### [8.1.5](https://github.com/chalkygames123/stylelint-config/compare/v8.1.4...v8.1.5) (2021-11-28)
 
 
