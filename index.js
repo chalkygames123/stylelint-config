@@ -80,7 +80,12 @@ module.exports = {
 		'selector-max-compound-selectors': 4,
 		'selector-max-id': 0,
 		'selector-max-type': 2,
-		'selector-no-qualifying-type': true,
+		'selector-no-qualifying-type': [
+			true,
+			{
+				ignore: ['attribute'],
+			},
+		],
 		'string-quotes': null,
 	},
 	overrides: [
