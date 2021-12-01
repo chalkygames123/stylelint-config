@@ -128,7 +128,7 @@ Added rules:
 
 ### ⚠ BREAKING CHANGES
 
-* The `@chalkygames123/stylelint-config/prettier` shared config has been removed. It was intended to include only rules that are disabled by `stylelint-config-prettier` but have a different format from Prettier. However, since the `at-rule-empty-line-before` rule has the same format as Prettier, and the `rule-empty-line-before` rule is not disabled as of `stylelint-config-prettier` v9.0.0, the config is no longer required.
+* The `@chalkygames123/stylelint-config/prettier` shared config has been removed. It was intended to include only rules that are disabled by `stylelint-config-prettier` and have a different format from Prettier. However, since the `at-rule-empty-line-before` rule has the same format as Prettier, and the `rule-empty-line-before` rule is not disabled as of `stylelint-config-prettier` v9.0.0, the config is no longer required.
 
 ### Bug Fixes
 
