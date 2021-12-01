@@ -1,3 +1,14 @@
+## [9.0.0](https://github.com/chalkygames123/stylelint-config/compare/v8.1.6...v9.0.0) (2021-12-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* The `prettier` sharable config, which was removed in v6.0.0, has been readded because the `at-rule-empty-line-before` rule actually has a different format from Prettier.
+
+### Bug Fixes
+
+* add `prettier` shareable config and extend it ([4c49357](https://github.com/chalkygames123/stylelint-config/commit/4c49357bb484b8b762b2d6a6ee5777daf7cdc65d))
+
 ### [8.1.6](https://github.com/chalkygames123/stylelint-config/compare/v8.1.5...v8.1.6) (2021-11-28)
 
 
