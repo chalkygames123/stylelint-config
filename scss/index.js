@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['stylelint-config-standard-scss', '../base'],
+  extends: ['stylelint-config-standard-scss', '../base', '../prettier'],
   rules: {
     'scss/at-each-key-value-single-line': true,
     'scss/at-function-named-arguments': [

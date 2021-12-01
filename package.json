@@ -30,6 +30,7 @@
   "files": [
     "base/index.js",
     "css/index.js",
+    "prettier/index.js",
     "scss/index.js"
   ],
   "keywords": [
