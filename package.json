@@ -1,6 +1,6 @@
 {
 	"name": "@chalkygames123/stylelint-config",
-	"version": "9.0.1",
+	"version": "9.0.2",
 	"publishConfig": {
 		"access": "public"
 	},

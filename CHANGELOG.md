@@ -1,3 +1,10 @@
+### [9.0.2](https://github.com/chalkygames123/stylelint-config/compare/v9.0.1...v9.0.2) (2021-12-01)
+
+
+### Bug Fixes
+
+* change option for `scss/no-duplicate-dollar-variables` rule ([058b9f2](https://github.com/chalkygames123/stylelint-config/commit/058b9f2aa0373c7ab05501b76c51a60cdc2996ba))
+
 ### [9.0.1](https://github.com/chalkygames123/stylelint-config/compare/v9.0.0...v9.0.1) (2021-12-01)
 
 
