@@ -24,7 +24,7 @@ CSS:
 // .stylelintrc.js
 
 module.exports = {
-  extends: ['@chalkygames123/stylelint-config/css'],
+	extends: ['@chalkygames123/stylelint-config/css'],
 };
 ```
 
@@ -34,7 +34,7 @@ SCSS:
 // .stylelintrc.js
 
 module.exports = {
-  extends: ['@chalkygames123/stylelint-config/scss'],
+	extends: ['@chalkygames123/stylelint-config/scss'],
 };
 ```
 
@@ -47,11 +47,11 @@ CSS:
 ```javascript
 // .stylelintrc.js
 module.exports = {
-  extends: [
-    '@chalkygames123/stylelint-config/css',
-    'stylelint-config-prettier',
-    '@chalkygames123/stylelint-config/prettier',
-  ],
+	extends: [
+		'@chalkygames123/stylelint-config/css',
+		'stylelint-config-prettier',
+		'@chalkygames123/stylelint-config/prettier',
+	],
 };
 ```
 
@@ -60,10 +60,10 @@ SCSS:
 ```javascript
 // .stylelintrc.js
 module.exports = {
-  extends: [
-    '@chalkygames123/stylelint-config/scss',
-    'stylelint-config-prettier',
-    '@chalkygames123/stylelint-config/prettier',
-  ],
+	extends: [
+		'@chalkygames123/stylelint-config/scss',
+		'stylelint-config-prettier',
+		'@chalkygames123/stylelint-config/prettier',
+	],
 };
 ```

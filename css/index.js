@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['stylelint-config-standard', '../base', '../prettier'],
+	extends: ['stylelint-config-standard', '../base', '../prettier'],
 };
