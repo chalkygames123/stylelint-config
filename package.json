@@ -15,7 +15,6 @@
 	"bugs": {
 		"url": "https://github.com/chalkygames123/stylelint-config/issues"
 	},
-	"main": "css/index.js",
 	"scripts": {
 		"check": "run-p check:* --continue-on-error",
 		"check:prettier": "prettier . --check",
@@ -28,10 +27,10 @@
 		"prepare": "husky install"
 	},
 	"files": [
-		"base/index.js",
-		"css/index.js",
-		"prettier/index.js",
-		"scss/index.js"
+		"base.js",
+		"css.js",
+		"prettier.js",
+		"scss.js"
 	],
 	"keywords": [
 		"stylelint",
