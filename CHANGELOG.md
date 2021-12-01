@@ -1,3 +1,10 @@
+### [9.0.1](https://github.com/chalkygames123/stylelint-config/compare/v9.0.0...v9.0.1) (2021-12-01)
+
+
+### Bug Fixes
+
+* change option for `at-rule-empty-line-before` rule ([c2dc32f](https://github.com/chalkygames123/stylelint-config/commit/c2dc32fcd204e85ef7b24d1f1b7dbf76aa5b4e22))
+
 ## [9.0.0](https://github.com/chalkygames123/stylelint-config/compare/v8.1.6...v9.0.0) (2021-12-01)
 
 
