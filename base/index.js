@@ -1,4 +1,4 @@
-const stylelintConfigRecessOrder = require('stylelint-config-recess-order')
+const stylelintConfigRecessOrder = require('stylelint-config-recess-order');
 
 module.exports = {
   extends: ['stylelint-config-recess-order'],
@@ -80,4 +80,4 @@ module.exports = {
     'selector-no-qualifying-type': true,
     'string-quotes': null,
   },
-}
+};

@@ -25,7 +25,7 @@ CSS:
 
 module.exports = {
   extends: ['@chalkygames123/stylelint-config/css'],
-}
+};
 ```
 
 SCSS:
@@ -35,7 +35,7 @@ SCSS:
 
 module.exports = {
   extends: ['@chalkygames123/stylelint-config/scss'],
-}
+};
 ```
 
 ### Prettier
@@ -52,7 +52,7 @@ module.exports = {
     'stylelint-config-prettier',
     '@chalkygames123/stylelint-config/prettier',
   ],
-}
+};
 ```
 
 SCSS:
@@ -65,5 +65,5 @@ module.exports = {
     'stylelint-config-prettier',
     '@chalkygames123/stylelint-config/prettier',
   ],
-}
+};
 ```
