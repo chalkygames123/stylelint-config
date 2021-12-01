@@ -109,6 +109,13 @@ module.exports = {
 				'scss/comment-no-loud': true,
 				'scss/declaration-nested-properties': 'never',
 				'scss/dimension-no-non-numeric-values': true,
+				'scss/double-slash-comment-empty-line-before': [
+					'always',
+					{
+						except: ['first-nested'],
+						ignore: ['between-comments', 'inside-block', 'stylelint-commands'],
+					},
+				],
 				'scss/function-color-relative': true,
 				'scss/map-keys-quotes': 'always',
 				'scss/no-duplicate-dollar-variables': [
