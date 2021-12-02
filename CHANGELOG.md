@@ -1,3 +1,10 @@
+### [10.0.1](https://github.com/chalkygames123/stylelint-config/compare/v10.0.0...v10.0.1) (2021-12-02)
+
+
+### Bug Fixes
+
+* turn off `selector-max-universal` rule ([810b95a](https://github.com/chalkygames123/stylelint-config/commit/810b95a5256e88c6d7dd171cbac3b4f698c62b92))
+
 ## [10.0.0](https://github.com/chalkygames123/stylelint-config/compare/v9.0.3...v10.0.0) (2021-12-02)
 
 
