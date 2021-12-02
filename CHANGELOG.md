@@ -1,3 +1,10 @@
+### [9.0.3](https://github.com/chalkygames123/stylelint-config/compare/v9.0.2...v9.0.3) (2021-12-02)
+
+
+### Bug Fixes
+
+* add missing `package.json#main` field ([e22c176](https://github.com/chalkygames123/stylelint-config/commit/e22c176b8fb461fbe3f97ffe62f874107223744c))
+
 ### [9.0.2](https://github.com/chalkygames123/stylelint-config/compare/v9.0.1...v9.0.2) (2021-12-01)
 
 
