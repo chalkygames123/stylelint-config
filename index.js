@@ -80,7 +80,6 @@ module.exports = {
 		'selector-max-compound-selectors': 4,
 		'selector-max-id': 0,
 		'selector-max-type': 2,
-		'selector-max-universal': 1,
 		'selector-no-qualifying-type': true,
 		'string-quotes': null,
 	},
