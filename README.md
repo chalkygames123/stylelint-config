@@ -16,52 +16,25 @@ $ npm install @chalkygames123/stylelint-config --save-dev
 
 ## Usage
 
-This package provides configs for both CSS and SCSS. You can choose which one you would like to extend.
-
-CSS:
+This package provides a single config that covers both CSS and SCSS. It will automatically apply SCSS rules to `.scss` files. Extend it in your config:
 
 ```javascript
 // .stylelintrc.js
 
 module.exports = {
-	extends: ['@chalkygames123/stylelint-config/css'],
-};
-```
-
-SCSS:
-
-```javascript
-// .stylelintrc.js
-
-module.exports = {
-	extends: ['@chalkygames123/stylelint-config/scss'],
+	extends: ['@chalkygames123/stylelint-config'],
 };
 ```
 
 ### Prettier
 
-When using Stylelint with Prettier, you should extend [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier) after any other shareable configs to turn off all rules that are unnecessary or might conflict with Prettier. While the above configs include rules that are turned off by doing that and have a different format from Prettier, you can also extend `@chalkygames123/stylelint-config/prettier` if you want to turn them back on.
-
-CSS:
+When using Stylelint with Prettier, you should extend [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier) after any other shareable configs to turn off all rules that are unnecessary or might conflict with Prettier. While the above configs include rules that are turned off by doing that and have a different format from Prettier, you can also extend `@chalkygames123/stylelint-config/prettier` if you want to turn them back on:
 
 ```javascript
 // .stylelintrc.js
 module.exports = {
 	extends: [
-		'@chalkygames123/stylelint-config/css',
-		'stylelint-config-prettier',
-		'@chalkygames123/stylelint-config/prettier',
-	],
-};
-```
-
-SCSS:
-
-```javascript
-// .stylelintrc.js
-module.exports = {
-	extends: [
-		'@chalkygames123/stylelint-config/scss',
+		'@chalkygames123/stylelint-config',
 		'stylelint-config-prettier',
 		'@chalkygames123/stylelint-config/prettier',
 	],
