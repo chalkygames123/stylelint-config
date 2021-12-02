@@ -1,3 +1,14 @@
+## [10.0.0](https://github.com/chalkygames123/stylelint-config/compare/v9.0.3...v10.0.0) (2021-12-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* The configs `css` and `scss` are now combined into a single config.
+
+### Features
+
+* combine `css` and `scss` configs ([354ffa2](https://github.com/chalkygames123/stylelint-config/commit/354ffa20b8598be233d4ad3d081182c2b106d153))
+
 ### [9.0.3](https://github.com/chalkygames123/stylelint-config/compare/v9.0.2...v9.0.3) (2021-12-02)
 
 
