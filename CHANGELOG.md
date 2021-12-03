@@ -1,3 +1,10 @@
+### [10.0.2](https://github.com/chalkygames123/stylelint-config/compare/v10.0.1...v10.0.2) (2021-12-03)
+
+
+### Bug Fixes
+
+* **deps:** update peer dependency `stylelint` to `>=14.1.0` ([ce5439d](https://github.com/chalkygames123/stylelint-config/commit/ce5439d79c4be2e6e326889e64275c5b4763e0d1))
+
 ### [10.0.1](https://github.com/chalkygames123/stylelint-config/compare/v10.0.0...v10.0.1) (2021-12-02)
 
 
