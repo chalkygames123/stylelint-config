@@ -32,6 +32,7 @@ When using Stylelint with Prettier, you should extend [stylelint-config-prettier
 
 ```javascript
 // .stylelintrc.js
+
 module.exports = {
 	extends: [
 		'@chalkygames123/stylelint-config',
