@@ -52,8 +52,8 @@
 	},
 	"devDependencies": {
 		"@chalkygames123/eslint-config": "4.0.1",
-		"@commitlint/cli": "15.0.0",
-		"@commitlint/config-conventional": "15.0.0",
+		"@commitlint/cli": "16.0.2",
+		"@commitlint/config-conventional": "16.0.0",
 		"@semantic-release/changelog": "6.0.1",
 		"@semantic-release/git": "10.0.1",
 		"conventional-changelog-conventionalcommits": "4.6.3",
