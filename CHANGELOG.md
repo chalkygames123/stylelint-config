@@ -1,3 +1,10 @@
+### [10.0.3](https://github.com/chalkygames123/stylelint-config/compare/v10.0.2...v10.0.3) (2022-01-18)
+
+
+### Bug Fixes
+
+* change option for `selector-no-qualifying-type` rule ([a260076](https://github.com/chalkygames123/stylelint-config/commit/a2600760207725b8884444e71dd8d96b0188e995))
+
 ### [10.0.2](https://github.com/chalkygames123/stylelint-config/compare/v10.0.1...v10.0.2) (2021-12-03)
 
 
