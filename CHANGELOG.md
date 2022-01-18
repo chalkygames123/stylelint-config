@@ -1,3 +1,10 @@
+### [10.0.4](https://github.com/chalkygames123/stylelint-config/compare/v10.0.3...v10.0.4) (2022-01-18)
+
+
+### Bug Fixes
+
+* change option for `scss/double-slash-comment-empty-line-before` rule ([971117c](https://github.com/chalkygames123/stylelint-config/commit/971117c78ebce4bc80e7b5cdb65a3a18a7007aaa))
+
 ### [10.0.3](https://github.com/chalkygames123/stylelint-config/compare/v10.0.2...v10.0.3) (2022-01-18)
 
 
