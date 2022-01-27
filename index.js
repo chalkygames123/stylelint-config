@@ -87,6 +87,12 @@ module.exports = {
 			},
 		],
 		'string-quotes': null,
+		'value-keyword-case': [
+			'lower',
+			{
+				camelCaseSvgKeywords: true,
+			},
+		],
 	},
 	overrides: [
 		{
