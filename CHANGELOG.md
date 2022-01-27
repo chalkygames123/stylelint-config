@@ -1,3 +1,15 @@
+## [11.0.0](https://github.com/chalkygames123/stylelint-config/compare/v10.0.4...v11.0.0) (2022-01-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** update peer dependency `stylelint` to `>=14.3.0`
+
+### Bug Fixes
+
+* change option for `value-keyword-case` rule ([a68266e](https://github.com/chalkygames123/stylelint-config/commit/a68266ecb0a82ebd4b9c3f3c791c31bd75649239))
+* **deps:** update peer dependency `stylelint` to `>=14.3.0` ([a24e075](https://github.com/chalkygames123/stylelint-config/commit/a24e0750e3a2ce4393c3abeb8854f2455544c6cd))
+
 ### [10.0.4](https://github.com/chalkygames123/stylelint-config/compare/v10.0.3...v10.0.4) (2022-01-18)
 
 
