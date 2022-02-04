@@ -11,6 +11,12 @@ module.exports = {
 	rules: {
 		'alpha-value-notation': 'number',
 		'color-named': 'never',
+		'comment-word-disallowed-list': [
+			['/^TODO/'],
+			{
+				severity: 'warning',
+			},
+		],
 		'declaration-no-important': true,
 		'font-weight-notation': [
 			'numeric',
