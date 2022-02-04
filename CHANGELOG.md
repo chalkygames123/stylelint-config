@@ -1,3 +1,10 @@
+## [11.1.0](https://github.com/chalkygames123/stylelint-config/compare/v11.0.0...v11.1.0) (2022-02-04)
+
+
+### Features
+
+* add `comment-word-disallowed-list` rule to warn about TODO comments ([befed13](https://github.com/chalkygames123/stylelint-config/commit/befed13f6d5d34541f474109520001b5fe815370))
+
 ## [11.0.0](https://github.com/chalkygames123/stylelint-config/compare/v10.0.4...v11.0.0) (2022-01-27)
 
 
