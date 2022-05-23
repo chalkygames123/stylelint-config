@@ -1,3 +1,20 @@
+## [13.0.0](https://github.com/chalkygames123/stylelint-config/compare/v12.0.0...v13.0.0) (2022-05-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* turn on `keyframe-block-no-duplicate-selectors` rule
+* **deps:** update peer dependency `stylelint` to `>=14.8.0`
+
+### Features
+
+* turn on `keyframe-block-no-duplicate-selectors` rule ([ccd9cf2](https://github.com/chalkygames123/stylelint-config/commit/ccd9cf2a0e4677fae5132c2a6f94bfdd59ec44b0))
+
+
+### Bug Fixes
+
+* **deps:** update peer dependency `stylelint` to `>=14.8.0` ([f49de39](https://github.com/chalkygames123/stylelint-config/commit/f49de39da3c92af0da4d6137e20c6ae1460739b7))
+
 ## [12.0.0](https://github.com/chalkygames123/stylelint-config/compare/v11.1.0...v12.0.0) (2022-02-09)
 
 
