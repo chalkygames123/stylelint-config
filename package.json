@@ -48,7 +48,7 @@
 	"dependencies": {
 		"stylelint-config-recess-order": "3.0.0",
 		"stylelint-config-standard": "25.0.0",
-		"stylelint-config-standard-scss": "3.0.0"
+		"stylelint-config-standard-scss": "4.0.0"
 	},
 	"devDependencies": {
 		"@chalkygames123/eslint-config": "4.0.4",
