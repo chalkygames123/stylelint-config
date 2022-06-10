@@ -68,28 +68,28 @@
 * change option for `value-keyword-case` rule ([a68266e](https://github.com/chalkygames123/stylelint-config/commit/a68266ecb0a82ebd4b9c3f3c791c31bd75649239))
 * **deps:** update peer dependency `stylelint` to `>=14.3.0` ([a24e075](https://github.com/chalkygames123/stylelint-config/commit/a24e0750e3a2ce4393c3abeb8854f2455544c6cd))
 
-### [10.0.4](https://github.com/chalkygames123/stylelint-config/compare/v10.0.3...v10.0.4) (2022-01-18)
+## [10.0.4](https://github.com/chalkygames123/stylelint-config/compare/v10.0.3...v10.0.4) (2022-01-18)
 
 
 ### Bug Fixes
 
 * change option for `scss/double-slash-comment-empty-line-before` rule ([971117c](https://github.com/chalkygames123/stylelint-config/commit/971117c78ebce4bc80e7b5cdb65a3a18a7007aaa))
 
-### [10.0.3](https://github.com/chalkygames123/stylelint-config/compare/v10.0.2...v10.0.3) (2022-01-18)
+## [10.0.3](https://github.com/chalkygames123/stylelint-config/compare/v10.0.2...v10.0.3) (2022-01-18)
 
 
 ### Bug Fixes
 
 * change option for `selector-no-qualifying-type` rule ([a260076](https://github.com/chalkygames123/stylelint-config/commit/a2600760207725b8884444e71dd8d96b0188e995))
 
-### [10.0.2](https://github.com/chalkygames123/stylelint-config/compare/v10.0.1...v10.0.2) (2021-12-03)
+## [10.0.2](https://github.com/chalkygames123/stylelint-config/compare/v10.0.1...v10.0.2) (2021-12-03)
 
 
 ### Bug Fixes
 
 * **deps:** update peer dependency `stylelint` to `>=14.1.0` ([ce5439d](https://github.com/chalkygames123/stylelint-config/commit/ce5439d79c4be2e6e326889e64275c5b4763e0d1))
 
-### [10.0.1](https://github.com/chalkygames123/stylelint-config/compare/v10.0.0...v10.0.1) (2021-12-02)
+## [10.0.1](https://github.com/chalkygames123/stylelint-config/compare/v10.0.0...v10.0.1) (2021-12-02)
 
 
 ### Bug Fixes
@@ -107,21 +107,21 @@
 
 * combine `css` and `scss` configs ([354ffa2](https://github.com/chalkygames123/stylelint-config/commit/354ffa20b8598be233d4ad3d081182c2b106d153))
 
-### [9.0.3](https://github.com/chalkygames123/stylelint-config/compare/v9.0.2...v9.0.3) (2021-12-02)
+## [9.0.3](https://github.com/chalkygames123/stylelint-config/compare/v9.0.2...v9.0.3) (2021-12-02)
 
 
 ### Bug Fixes
 
 * add missing `package.json#main` field ([e22c176](https://github.com/chalkygames123/stylelint-config/commit/e22c176b8fb461fbe3f97ffe62f874107223744c))
 
-### [9.0.2](https://github.com/chalkygames123/stylelint-config/compare/v9.0.1...v9.0.2) (2021-12-01)
+## [9.0.2](https://github.com/chalkygames123/stylelint-config/compare/v9.0.1...v9.0.2) (2021-12-01)
 
 
 ### Bug Fixes
 
 * change option for `scss/no-duplicate-dollar-variables` rule ([058b9f2](https://github.com/chalkygames123/stylelint-config/commit/058b9f2aa0373c7ab05501b76c51a60cdc2996ba))
 
-### [9.0.1](https://github.com/chalkygames123/stylelint-config/compare/v9.0.0...v9.0.1) (2021-12-01)
+## [9.0.1](https://github.com/chalkygames123/stylelint-config/compare/v9.0.0...v9.0.1) (2021-12-01)
 
 
 ### Bug Fixes
@@ -139,14 +139,14 @@
 
 * add `prettier` shareable config and extend it ([4c49357](https://github.com/chalkygames123/stylelint-config/commit/4c49357bb484b8b762b2d6a6ee5777daf7cdc65d))
 
-### [8.1.6](https://github.com/chalkygames123/stylelint-config/compare/v8.1.5...v8.1.6) (2021-11-28)
+## [8.1.6](https://github.com/chalkygames123/stylelint-config/compare/v8.1.5...v8.1.6) (2021-11-28)
 
 
 ### Bug Fixes
 
 * disable `scss/comment-no-empty` rule (again) ([fc0dded](https://github.com/chalkygames123/stylelint-config/commit/fc0dded6feb5e7a27410490268da564e475a4122))
 
-### [8.1.5](https://github.com/chalkygames123/stylelint-config/compare/v8.1.4...v8.1.5) (2021-11-28)
+## [8.1.5](https://github.com/chalkygames123/stylelint-config/compare/v8.1.4...v8.1.5) (2021-11-28)
 
 
 ### Bug Fixes
@@ -154,28 +154,28 @@
 * change option for `at-mixin-argumentless-call-parentheses` rule ([74541d7](https://github.com/chalkygames123/stylelint-config/commit/74541d7961c387ad3646240d12b3e162e6d9c297))
 * disable `scss/comment-no-empty` rule ([370fbc2](https://github.com/chalkygames123/stylelint-config/commit/370fbc21daf5bf2d262fdc9e3af6bd023c0a8333))
 
-### [8.1.4](https://github.com/chalkygames123/stylelint-config/compare/v8.1.3...v8.1.4) (2021-11-28)
+## [8.1.4](https://github.com/chalkygames123/stylelint-config/compare/v8.1.3...v8.1.4) (2021-11-28)
 
 
 ### Bug Fixes
 
 * **deps:** add missing dependency `stylelint-config-standard-scss` ([2886fa6](https://github.com/chalkygames123/stylelint-config/commit/2886fa60be4c225e483d2633ccaa0842ffdf917a))
 
-### [8.1.3](https://github.com/chalkygames123/stylelint-config/compare/v8.1.2...v8.1.3) (2021-11-25)
+## [8.1.3](https://github.com/chalkygames123/stylelint-config/compare/v8.1.2...v8.1.3) (2021-11-25)
 
 
 ### Bug Fixes
 
 * add missing entry `'base/index.js'` to `package.json#files` field ([b97ab34](https://github.com/chalkygames123/stylelint-config/commit/b97ab347511d6f7b7a52c17c26f1b142cb81555d))
 
-### [8.1.2](https://github.com/chalkygames123/stylelint-config/compare/v8.1.1...v8.1.2) (2021-11-21)
+## [8.1.2](https://github.com/chalkygames123/stylelint-config/compare/v8.1.1...v8.1.2) (2021-11-21)
 
 
 ### Bug Fixes
 
 * **scss:** change option for `scss/no-duplicate-dollar-variables` rule ([141f20c](https://github.com/chalkygames123/stylelint-config/commit/141f20cf28dff5b01347a8367e0cd9474bd2ffc5))
 
-### [8.1.1](https://github.com/chalkygames123/stylelint-config/compare/v8.1.0...v8.1.1) (2021-11-21)
+## [8.1.1](https://github.com/chalkygames123/stylelint-config/compare/v8.1.0...v8.1.1) (2021-11-21)
 
 ⚠ This release has been unpublished due to an accident during the release process. Therefore, the installation will fail with an `ETARGET` error.
 
@@ -220,7 +220,7 @@ Added rules:
 
 * **scss:** add `stylelint-config-standard-scss` shareable config ([6b76658](https://github.com/chalkygames123/stylelint-config/commit/6b766586fb3928ad6d02d8061efa74f0d3590434))
 
-### [7.0.1](https://github.com/chalkygames123/stylelint-config/compare/v7.0.0...v7.0.1) (2021-11-21)
+## [7.0.1](https://github.com/chalkygames123/stylelint-config/compare/v7.0.0...v7.0.1) (2021-11-21)
 
 
 ### Bug Fixes
@@ -257,7 +257,7 @@ Added rules:
 
 * **deps:** update all major dependencies ([4d5727f](https://github.com/chalkygames123/stylelint-config/commit/4d5727fd2be0c6c6ac5a60473e85198bbba288ba))
 
-### [6.0.1](https://github.com/chalkygames123/stylelint-config/compare/v6.0.0...v6.0.1) (2021-11-21)
+## [6.0.1](https://github.com/chalkygames123/stylelint-config/compare/v6.0.0...v6.0.1) (2021-11-21)
 
 
 ### Bug Fixes
@@ -275,7 +275,7 @@ Added rules:
 
 * remove `@chalkygames123/stylelint-config/prettier` shareable config ([43e2038](https://github.com/chalkygames123/stylelint-config/commit/43e2038b272bca947dfd64f0ea274656dc127ba5))
 
-### [5.0.1](https://github.com/chalkygames123/stylelint-config/compare/v5.0.0...v5.0.1) (2021-10-12)
+## [5.0.1](https://github.com/chalkygames123/stylelint-config/compare/v5.0.0...v5.0.1) (2021-10-12)
 
 
 ### Bug Fixes
@@ -293,7 +293,7 @@ Added rules:
 
 * change `unspecified` option of `order/properties-order` rule to `bottomAlphabetical` ([b9a27ab](https://github.com/chalkygames123/stylelint-config/commit/b9a27abcba2eaafbed129ae46915781f9fb075b9))
 
-### [4.0.1](https://github.com/chalkygames123/stylelint-config/compare/v4.0.0...v4.0.1) (2021-05-31)
+## [4.0.1](https://github.com/chalkygames123/stylelint-config/compare/v4.0.0...v4.0.1) (2021-05-31)
 
 
 ### Bug Fixes
@@ -312,14 +312,14 @@ Added rules:
 * **deps:** update dependency stylelint-config-standard to v22 ([104ab0f](https://github.com/chalkygames123/stylelint-config/commit/104ab0f887b00034c050cac42ca9f9cb0211ef91))
 * **deps:** update peer dependency stylelint to >=13.13.0 ([8042eed](https://github.com/chalkygames123/stylelint-config/commit/8042eed29112821397d4c6ad62d8ac889f8a2e51))
 
-### [3.0.2](https://github.com/chalkygames123/stylelint-config/compare/v3.0.1...v3.0.2) (2021-04-06)
+## [3.0.2](https://github.com/chalkygames123/stylelint-config/compare/v3.0.1...v3.0.2) (2021-04-06)
 
 
 ### Bug Fixes
 
 * disable `no-descending-specificity` rule due to its limitation ([01dd69f](https://github.com/chalkygames123/stylelint-config/commit/01dd69f3ed784aa89a1586c282a4229fa365a09a))
 
-### [3.0.1](https://github.com/chalkygames123/stylelint-config/compare/v3.0.0...v3.0.1) (2021-03-26)
+## [3.0.1](https://github.com/chalkygames123/stylelint-config/compare/v3.0.0...v3.0.1) (2021-03-26)
 
 
 ### Reverts
@@ -352,7 +352,7 @@ Added rules:
 
 * remove unnecessary dependency stylelint-order ([9219012](https://github.com/chalkygames123/stylelint-config/commit/9219012d599fc77d0f7db3de0b257ec3bf6c9800))
 
-### [2.1.1](https://github.com/chalkygames123/stylelint-config/compare/v2.1.0...v2.1.1) (2020-11-26)
+## [2.1.1](https://github.com/chalkygames123/stylelint-config/compare/v2.1.0...v2.1.1) (2020-11-26)
 
 
 ### Bug Fixes
@@ -372,7 +372,7 @@ Added rules:
 * disable the no-empty-source rule that was unintentionally enabled ([dfa337a](https://github.com/chalkygames123/stylelint-config/commit/dfa337acda7585a9d10b8214e6659ccee2e9b31f))
 * remove the declaration-empty-line-before rule ([cf8464e](https://github.com/chalkygames123/stylelint-config/commit/cf8464ed4cc3a140111bf4d1dfe2e3d88939c98a))
 
-### [2.0.1](https://github.com/chalkygames123/stylelint-config/compare/v2.0.0...v2.0.1) (2020-11-26)
+## [2.0.1](https://github.com/chalkygames123/stylelint-config/compare/v2.0.0...v2.0.1) (2020-11-26)
 
 
 ### Bug Fixes
@@ -391,7 +391,7 @@ users to extend additional configs.
 
 * stop extending the stylelint-config-prettier ([395fb05](https://github.com/chalkygames123/stylelint-config/commit/395fb05ca7ac75a92f44fb74a5192967e9becf6a))
 
-### [1.0.1](https://github.com/chalkygames123/stylelint-config/compare/v1.0.0...v1.0.1) (2020-11-24)
+## [1.0.1](https://github.com/chalkygames123/stylelint-config/compare/v1.0.0...v1.0.1) (2020-11-24)
 
 
 ### Bug Fixes
