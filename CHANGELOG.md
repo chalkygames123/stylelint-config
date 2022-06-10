@@ -1,3 +1,18 @@
+## [14.0.0](https://github.com/chalkygames123/stylelint-config/compare/v13.0.1...v14.0.0) (2022-06-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* change `selector-not-notation` rule option to `'simple'`
+* **deps:** update peer dependency `stylelint` to `>=14.9.0`
+* **deps:** update dependency stylelint-config-standard to v26
+
+### Bug Fixes
+
+* change `selector-not-notation` rule option to `'simple'` ([7546ee5](https://github.com/chalkygames123/stylelint-config/commit/7546ee54977c7407daa0f92748398c9649e15058))
+* **deps:** update dependency stylelint-config-standard to v26 ([42d3f95](https://github.com/chalkygames123/stylelint-config/commit/42d3f955deff4feacee53fa3e28ae46cbcfde4af))
+* **deps:** update peer dependency `stylelint` to `>=14.9.0` ([d5b92c1](https://github.com/chalkygames123/stylelint-config/commit/d5b92c1633690664f2d9aafcd9a4101a00f1db2c))
+
 ## [13.0.1](https://github.com/chalkygames123/stylelint-config/compare/v13.0.0...v13.0.1) (2022-05-30)
 
 
