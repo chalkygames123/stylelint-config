@@ -1,3 +1,10 @@
+## [14.1.0](https://github.com/chalkygames123/stylelint-config/compare/v14.0.0...v14.1.0) (2022-06-16)
+
+
+### Features
+
+* turn off `order/properties-order` rule in favor of prettier-plugin-css-order ([b0c0e1a](https://github.com/chalkygames123/stylelint-config/commit/b0c0e1a4b3d07b7a18b968fad6a53d9df9479e1d))
+
 ## [14.0.0](https://github.com/chalkygames123/stylelint-config/compare/v13.0.1...v14.0.0) (2022-06-10)
 
 
