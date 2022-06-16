@@ -1,11 +1,6 @@
-const stylelintConfigRecessOrder = require('stylelint-config-recess-order');
-
 module.exports = {
-	extends: [
-		'stylelint-config-standard',
-		'stylelint-config-recess-order',
-		'./prettier.js',
-	],
+	extends: ['stylelint-config-standard', './prettier.js'],
+	plugins: ['stylelint-order'],
 	reportInvalidScopeDisables: true,
 	reportNeedlessDisables: true,
 	rules: {
@@ -66,12 +61,6 @@ module.exports = {
 				},
 			],
 		],
-		'order/properties-order': [
-			stylelintConfigRecessOrder.rules['order/properties-order'],
-			{
-				unspecified: 'bottomAlphabetical',
-			},
-		],
 		'rule-empty-line-before': [
 			'always',
 			{
@@ -104,11 +93,7 @@ module.exports = {
 	overrides: [
 		{
 			files: '**/*.scss',
-			extends: [
-				'stylelint-config-standard-scss',
-				'stylelint-config-recess-order',
-				'./prettier.js',
-			],
+			extends: ['stylelint-config-standard-scss', './prettier.js'],
 			rules: {
 				'scss/at-each-key-value-single-line': true,
 				'scss/at-function-named-arguments': [
