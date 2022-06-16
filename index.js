@@ -81,7 +81,7 @@ module.exports = {
 				ignore: ['attribute'],
 			},
 		],
-		'selector-not-notation': 'simple',
+		'selector-not-notation': 'complex',
 		'string-quotes': null,
 		'value-keyword-case': [
 			'lower',
