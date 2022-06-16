@@ -1,3 +1,14 @@
+## [15.0.0](https://github.com/chalkygames123/stylelint-config/compare/v14.1.0...v15.0.0) (2022-06-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* change `selector-not-notation` rule option to `complex`
+
+### Features
+
+* change `selector-not-notation` rule option to `complex` ([d708ada](https://github.com/chalkygames123/stylelint-config/commit/d708ada667ba951e0b68648d5a62bf607def0a2f))
+
 ## [14.1.0](https://github.com/chalkygames123/stylelint-config/compare/v14.0.0...v14.1.0) (2022-06-16)
 
 
