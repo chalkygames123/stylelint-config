@@ -4,7 +4,7 @@ module.exports = {
 	reportInvalidScopeDisables: true,
 	reportNeedlessDisables: true,
 	rules: {
-		'alpha-value-notation': 'number',
+		'alpha-value-notation': 'percentage',
 		'color-named': 'never',
 		'comment-word-disallowed-list': [
 			['/^TODO/'],
