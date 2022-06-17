@@ -1,3 +1,14 @@
+## [16.0.0](https://github.com/chalkygames123/stylelint-config/compare/v15.0.0...v16.0.0) (2022-06-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* change `alpha-value-notation` rule option to `percentage`
+
+### Features
+
+* change `alpha-value-notation` rule option to `percentage` ([43ad579](https://github.com/chalkygames123/stylelint-config/commit/43ad579789d96e860b2f9a20ddc966b0dcf42862))
+
 ## [15.0.0](https://github.com/chalkygames123/stylelint-config/compare/v14.1.0...v15.0.0) (2022-06-16)
 
 
