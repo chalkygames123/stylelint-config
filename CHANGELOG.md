@@ -1,3 +1,14 @@
+## [17.0.0](https://github.com/chalkygames123/stylelint-config/compare/v16.0.0...v17.0.0) (2022-07-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* "refactor: remove redundant `keyframe-block-no-duplicate-selectors` rule"
+
+### Reverts
+
+* "refactor: remove redundant `keyframe-block-no-duplicate-selectors` rule" ([c298f14](https://github.com/chalkygames123/stylelint-config/commit/c298f1471415a12e456a9e83495c91a38ee67d91))
+
 ## [16.0.0](https://github.com/chalkygames123/stylelint-config/compare/v15.0.0...v16.0.0) (2022-06-17)
 
 
