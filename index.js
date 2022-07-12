@@ -20,6 +20,7 @@ module.exports = {
 			},
 		],
 		'function-url-no-scheme-relative': true,
+		'keyframe-block-no-duplicate-selectors': true,
 		'max-line-length': null,
 		'no-descending-specificity': null,
 		'no-empty-first-line': null,
