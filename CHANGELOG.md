@@ -1,3 +1,10 @@
+## [17.0.1](https://github.com/chalkygames123/stylelint-config/compare/v17.0.0...v17.0.1) (2022-07-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-config-standard-scss to v5 ([f5c45f8](https://github.com/chalkygames123/stylelint-config/commit/f5c45f83dac9a52ba60c70a51d57b03c9bfd0201))
+
 ## [17.0.0](https://github.com/chalkygames123/stylelint-config/compare/v16.0.0...v17.0.0) (2022-07-12)
 
 
