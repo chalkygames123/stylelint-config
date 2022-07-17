@@ -107,6 +107,17 @@ module.exports = {
 				'scss/comment-no-loud': true,
 				'scss/declaration-nested-properties': 'never',
 				'scss/dimension-no-non-numeric-values': true,
+				'scss/dollar-variable-empty-line-before': [
+					'always',
+					{
+						except: ['after-dollar-variable', 'first-nested'],
+						ignore: [
+							'after-comment',
+							'after-dollar-variable',
+							'inside-single-line-block',
+						],
+					},
+				],
 				'scss/double-slash-comment-empty-line-before': [
 					'always',
 					{
