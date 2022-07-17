@@ -20,7 +20,6 @@ module.exports = {
 			},
 		],
 		'function-url-no-scheme-relative': true,
-		'import-notation': null,
 		'max-line-length': null,
 		'no-descending-specificity': null,
 		'no-empty-first-line': null,
