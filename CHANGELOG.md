@@ -1,3 +1,14 @@
+## [18.0.0](https://github.com/chalkygames123/stylelint-config/compare/v17.0.2...v18.0.0) (2022-07-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* turn on `import-notation`
+
+### Features
+
+* turn on `import-notation` ([79be5ba](https://github.com/chalkygames123/stylelint-config/commit/79be5bafc41d61810e53166d2731f2523bf79952))
+
 ## [17.0.2](https://github.com/chalkygames123/stylelint-config/compare/v17.0.1...v17.0.2) (2022-07-17)
 
 
