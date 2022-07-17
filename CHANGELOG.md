@@ -1,3 +1,10 @@
+## [17.0.2](https://github.com/chalkygames123/stylelint-config/compare/v17.0.1...v17.0.2) (2022-07-17)
+
+
+### Bug Fixes
+
+* turn off `import-notation` ([03041d0](https://github.com/chalkygames123/stylelint-config/commit/03041d0b421ec7beee9fd39c0096c56a6b87b003))
+
 ## [17.0.1](https://github.com/chalkygames123/stylelint-config/compare/v17.0.0...v17.0.1) (2022-07-17)
 
 
