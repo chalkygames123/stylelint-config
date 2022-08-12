@@ -1,3 +1,18 @@
+## [19.0.0](https://github.com/chalkygames123/stylelint-config/compare/v18.1.0...v19.0.0) (2022-08-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* turn on `keyframe-selector-notation` rule
+* turn on `annotation-no-unknown` rule
+* **deps:** update peer dependency `stylelint` to `>=14.10.0`
+
+### Features
+
+* **deps:** update peer dependency `stylelint` to `>=14.10.0` ([68dcefe](https://github.com/chalkygames123/stylelint-config/commit/68dcefe7660bfb93f87162fa0c7d2d1f3a0b0e50))
+* turn on `annotation-no-unknown` rule ([91eb6b0](https://github.com/chalkygames123/stylelint-config/commit/91eb6b0563dbb494a8b97a88f1034095e5079222))
+* turn on `keyframe-selector-notation` rule ([fec9b0b](https://github.com/chalkygames123/stylelint-config/commit/fec9b0bd1b56da9cdade2cc96922eb10c2e7e36f))
+
 ## [18.1.0](https://github.com/chalkygames123/stylelint-config/compare/v18.0.0...v18.1.0) (2022-07-17)
 
 
