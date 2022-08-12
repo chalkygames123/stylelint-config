@@ -21,6 +21,7 @@ module.exports = {
 			},
 		],
 		'function-url-no-scheme-relative': true,
+		'keyframe-selector-notation': 'percentage',
 		'max-line-length': null,
 		'no-descending-specificity': null,
 		'no-empty-first-line': null,
