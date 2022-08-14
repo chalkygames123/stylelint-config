@@ -1,6 +1,6 @@
 module.exports = {
 	extends: ['stylelint-config-standard', './prettier.js'],
-	plugins: ['stylelint-order'],
+	plugins: ['stylelint-order', 'stylelint-use-nesting'],
 	reportInvalidScopeDisables: true,
 	reportNeedlessDisables: true,
 	rules: {
@@ -13,6 +13,7 @@ module.exports = {
 				severity: 'warning',
 			},
 		],
+		'csstools/use-nesting': 'always',
 		'declaration-no-important': true,
 		'font-weight-notation': [
 			'numeric',
