@@ -70,6 +70,6 @@
 		"semantic-release": "19.0.5"
 	},
 	"volta": {
-		"node": "19.7.0"
+		"node": "19.8.0"
 	}
 }
