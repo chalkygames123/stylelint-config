@@ -1,11 +1,19 @@
 module.exports = {
-	extends: ['stylelint-config-standard', './prettier.js'],
+	extends: ['stylelint-config-standard'],
 	plugins: ['stylelint-order'],
 	reportInvalidScopeDisables: true,
 	reportNeedlessDisables: true,
 	rules: {
 		'alpha-value-notation': 'percentage',
 		'annotation-no-unknown': true,
+		'at-rule-empty-line-before': [
+			'always',
+			{
+				except: ['first-nested'],
+				ignore: ['after-comment', 'blockless-after-same-name-blockless'],
+				ignoreAtRules: ['else'],
+			},
+		],
 		'color-named': 'never',
 		'comment-word-disallowed-list': [
 			['/^TODO/'],
@@ -95,7 +103,7 @@ module.exports = {
 	overrides: [
 		{
 			files: '**/*.scss',
-			extends: ['stylelint-config-standard-scss', './prettier.js'],
+			extends: ['stylelint-config-standard-scss'],
 			rules: {
 				'scss/at-each-key-value-single-line': true,
 				'scss/at-function-named-arguments': [

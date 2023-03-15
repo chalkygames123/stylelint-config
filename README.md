@@ -25,19 +25,3 @@ module.exports = {
 	extends: ['@chalkygames123/stylelint-config'],
 };
 ```
-
-### Prettier
-
-When using Stylelint with Prettier, you should extend [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier) after any other shareable configs to turn off all rules that are unnecessary or might conflict with Prettier. While the above configs include rules that are turned off by doing that and have a different format from Prettier, you can also extend `@chalkygames123/stylelint-config/prettier` if you want to turn them back on:
-
-```javascript
-// .stylelintrc.js
-
-module.exports = {
-	extends: [
-		'@chalkygames123/stylelint-config',
-		'stylelint-config-prettier',
-		'@chalkygames123/stylelint-config/prettier',
-	],
-};
-```
