@@ -45,9 +45,9 @@
 		"stylelint": "^14.10.0 || ^15.0.0"
 	},
 	"dependencies": {
-		"stylelint-config-standard": "26.0.0",
-		"stylelint-config-standard-scss": "5.0.0",
-		"stylelint-order": "5.0.0"
+		"stylelint-config-standard": "30.0.1",
+		"stylelint-config-standard-scss": "7.0.1",
+		"stylelint-order": "6.0.3"
 	},
 	"devDependencies": {
 		"@chalkygames123/eslint-config": "5.2.0",
