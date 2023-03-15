@@ -1,3 +1,14 @@
+## [20.0.0](https://github.com/chalkygames123/stylelint-config/compare/v19.0.0...v20.0.0) (2023-03-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* require Node.js 14 or greater
+
+### Bug Fixes
+
+* require Node.js 14 or greater ([1dc6c2e](https://github.com/chalkygames123/stylelint-config/commit/1dc6c2e5199710e6ea78b4b026418a1752a7a8da))
+
 ## [19.0.0](https://github.com/chalkygames123/stylelint-config/compare/v18.1.0...v19.0.0) (2022-08-12)
 
 
