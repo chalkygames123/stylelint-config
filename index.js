@@ -5,7 +5,6 @@ module.exports = {
 	reportNeedlessDisables: true,
 	rules: {
 		'alpha-value-notation': 'percentage',
-		'annotation-no-unknown': true,
 		'at-rule-empty-line-before': [
 			'always',
 			{
