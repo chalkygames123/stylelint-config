@@ -18,6 +18,9 @@
 	"bugs": {
 		"url": "https://github.com/chalkygames123/stylelint-config/issues"
 	},
+	"engines": {
+		"node": ">=14.0.0"
+	},
 	"scripts": {
 		"check": "run-p check:* --continue-on-error",
 		"check:prettier": "prettier . --check",
