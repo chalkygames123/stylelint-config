@@ -1,3 +1,25 @@
+## [20.0.0-beta.1](https://github.com/chalkygames123/stylelint-config/compare/v19.0.0...v20.0.0-beta.1) (2023-03-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** update dependencies
+* remove Prettier config
+* require Node.js 14 or greater
+
+### Features
+
+* **deps:** update dependencies ([2a63aac](https://github.com/chalkygames123/stylelint-config/commit/2a63aaccb032320f5290f77f688af2722af67532))
+* remove Prettier config ([025626a](https://github.com/chalkygames123/stylelint-config/commit/025626aacbd3c29632c39e3827c05a7ef30ac3f8))
+
+
+### Bug Fixes
+
+* **deps:** update peer dependency `stylelint` to `^14.10.0 || ^15.0.0` ([d3a2c48](https://github.com/chalkygames123/stylelint-config/commit/d3a2c487f99768ef2bb604d54d28aa57f7f69b79))
+* **deps:** update peer dependency `stylelint` to `^15.0.0` ([8c4f8f0](https://github.com/chalkygames123/stylelint-config/commit/8c4f8f0459dec7c5a5f5f3bf829359f67ee48668))
+* require Node.js 14 or greater ([1dc6c2e](https://github.com/chalkygames123/stylelint-config/commit/1dc6c2e5199710e6ea78b4b026418a1752a7a8da))
+* **rules:** turn off `annotation-no-unknown` rule for SCSS files ([3240e52](https://github.com/chalkygames123/stylelint-config/commit/3240e52d4f3eaa5e33b3008932a0acd1298cbdc5))
+
 ## [19.0.0](https://github.com/chalkygames123/stylelint-config/compare/v18.1.0...v19.0.0) (2022-08-12)
 
 
