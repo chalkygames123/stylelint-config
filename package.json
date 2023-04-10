@@ -53,7 +53,7 @@
 	},
 	"dependencies": {
 		"stylelint-config-standard": "26.0.0",
-		"stylelint-config-standard-scss": "5.0.0",
+		"stylelint-config-standard-scss": "8.0.0",
 		"stylelint-order": "5.0.0"
 	},
 	"devDependencies": {
